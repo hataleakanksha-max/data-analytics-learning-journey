@@ -112,3 +112,79 @@ Question 11: What difference, if any, did you notice between using Excel and Goo
 **Practice status:** Confirmed
 
 This lesson will be updated after the practical exercise and understanding check have been reviewed.
+
+
+## 8. Data Types
+
+A data type describes the kind of value stored in a cell.
+
+Common data types include:
+
+- **Text:** Names, labels, and descriptions.
+- **Number:** Quantities, prices, and other numeric values.
+- **Date:** Calendar dates used for time-based analysis.
+
+Consistent data types help prevent calculation errors and make datasets easier to analyze.
+
+A date that looks correct on screen may still be stored as text. Date recognition depends on how the value was entered and the spreadsheet's settings.
+
+## 9. Selecting Cell Ranges
+
+A cell range is a group of cells.
+
+For example, `A1:E6` includes:
+
+- Five columns: A through E.
+- Six rows: 1 through 6.
+- Thirty cells in total.
+
+Calculation:
+
+`5 columns × 6 rows = 30 cells`
+
+Ranges are useful for formatting, copying, analyzing, and applying formulas to multiple cells.
+
+## 10. Editing Data
+
+Spreadsheet users can correct values by selecting a cell and entering the correct value.
+
+For example, if a quantity was mistakenly entered as `100` instead of `10`, the cell should be corrected to `10`.
+
+Before deleting entire rows or columns, verify that the information is no longer needed.
+
+## 11. Structuring Data for Analysis
+
+A well-structured dataset follows these principles:
+
+1. Use one header row with descriptive column names.
+2. Store one variable in each column.
+3. Store one record in each row.
+4. Keep data types consistent within each column.
+5. Avoid unnecessary blank rows inside the dataset.
+
+These practices make datasets easier to sort, filter, analyze, and import into other tools.
+
+## 12. Data Quality
+
+Data quality describes how suitable data is for its intended use.
+
+For example, a quantity column containing `10`, `15`, `Ten`, and `20` has inconsistent values.
+
+The text value `Ten` should be corrected to the numeric value `10`, assuming the intended quantity is confirmed.
+
+Data should be corrected based on evidence rather than assumptions.
+
+## 13. Tools Practiced
+
+- Microsoft Excel
+- Google Sheets
+
+Both tools support cell selection, data entry, editing, and column-width adjustments, although their interfaces may differ.
+
+## 14. Lesson Progress
+
+**Lesson 1: Spreadsheet Fundamentals — Completed**
+
+**Lesson 2: Entering, Editing, and Organizing Data — Completed**
+
+The corresponding practical exercises were attempted in both Excel and Google Sheets.
