@@ -12,8 +12,8 @@ My learning journey is organized into the following phases:
 
 | Phase | Topic | Status |
 |---|---|---|
-| 00 | Learning Roadmap | In Progress |
-| 01 | Excel & Google Sheets | Not Started |
+| 00 | Learning Roadmap | Complete |
+| 01 | Excel & Google Sheets | In Progress |
 | 02 | Statistics & Probability | Not Started |
 | 03 | Python Fundamentals | Not Started |
 | 04 | Python for Data Analysis | Not Started |
